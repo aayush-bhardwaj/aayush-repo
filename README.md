@@ -3,5 +3,7 @@ aayush-repo
 
 Aayush testing repo .
 
-Personal tests and development projects , goes in here .
 __authot__ == "Aayush Bhardwaj"
+
+Purpose is to download any URL using the python script.
+Just pass the URL as parameter in the command line .
